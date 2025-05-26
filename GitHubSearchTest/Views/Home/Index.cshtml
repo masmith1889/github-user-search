@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "GitHub User Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GitHub User Search</h2>
+
+@using (Html.BeginForm())
+{
+    <input type="text" name="username" placeholder="Enter GitHub username" required />
+    <button type="submit">Search</button>
+}
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red;">@ViewBag.Error</p>
+}

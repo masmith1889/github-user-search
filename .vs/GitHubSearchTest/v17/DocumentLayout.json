@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83CA0DD7-BDE4-45F2-AEE3-6B95A58D86C8}|GitHubSearchTest.Tests\\GitHubSearchTest.Tests.csproj|c:\\users\\marksmith\\source\\repos\\githubsearchtest\\githubsearchtest.tests\\githubservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CA0DD7-BDE4-45F2-AEE3-6B95A58D86C8}|GitHubSearchTest.Tests\\GitHubSearchTest.Tests.csproj|solutionrelative:githubsearchtest.tests\\githubservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CA0DD7-BDE4-45F2-AEE3-6B95A58D86C8}|GitHubSearchTest.Tests\\GitHubSearchTest.Tests.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CA0DD7-BDE4-45F2-AEE3-6B95A58D86C8}|GitHubSearchTest.Tests\\GitHubSearchTest.Tests.csproj|solutionrelative:githubsearchtest.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\models\\githubusercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\models\\githubusercontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\models\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\models\\githubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\githubsearchtest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9419A984-92CF-4169-A573-E2E393A9E3E4}|GitHubSearchTest\\GitHubSearchTest.csproj|solutionrelative:githubsearchtest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Views\\Home\\Result.cshtml",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Views\\Home\\Result.cshtml",
+              "RelativeToolTip": "GitHubSearchTest\\Views\\Home\\Result.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T11:07:09.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest.Tests\\GitHubServiceTests.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest.Tests\\GitHubServiceTests.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest.Tests\\GitHubServiceTests.cs",
+              "RelativeToolTip": "GitHubSearchTest.Tests\\GitHubServiceTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:09:05.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GitHubSearchTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAADWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T13:23:40.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "GitHubSearchTest\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:14:58.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GitHubSearchTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T10:55:42.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GitHubSearchTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:54:23.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Services\\GitHubService.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Services\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Services\\GitHubService.cs",
+              "RelativeToolTip": "GitHubSearchTest\\Services\\GitHubService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:51:00.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GitHubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Models\\GitHubRepository.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Models\\GitHubRepository.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Models\\GitHubRepository.cs",
+              "RelativeToolTip": "GitHubSearchTest\\Models\\GitHubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:46:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GitHubUserContent.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Models\\GitHubUserContent.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Models\\GitHubUserContent.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Models\\GitHubUserContent.cs",
+              "RelativeToolTip": "GitHubSearchTest\\Models\\GitHubUserContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:44:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GitHubSearchTest.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "GitHubSearchTest.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:07:05.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Web.config",
+              "RelativeDocumentMoniker": "GitHubSearchTest\\Web.config",
+              "ToolTip": "C:\\Users\\MarkSmith\\source\\repos\\GitHubSearchTest\\GitHubSearchTest\\Web.config",
+              "RelativeToolTip": "GitHubSearchTest\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-25T13:25:47.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
