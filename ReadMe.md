@@ -1,10 +1,10 @@
-GitHub User Search – ASP.NET MVC (.NET Framework)
+**GitHub User Search – ASP.NET MVC (.NET Framework)**
 
 This is a simple ASP.NET MVC 5 application built on the .NET Framework 4.7.2. It allows users to enter a GitHub username, retrieves the user's profile information and their top 5 repositories (by stargazer count).
 
 
 
-How to Set Up and Run the Application
+**How to Set Up and Run the Application**
 
 
 Step-by-Step Setup
@@ -29,7 +29,7 @@ Specific Page: Home/Index
 6. Run the Application
 
 
-Use the App
+**Use the App**
 
 You’ll see a simple form with a text box to enter a GitHub username
 
@@ -40,7 +40,7 @@ You’ll see a simple form with a text box to enter a GitHub username
 The results page will show profile details and top repositories
 
 
-Running Unit Tests
+**Running Unit Tests**
 
 1. Open Test Explorer in Visual Studio
 Test → Test Explorer
